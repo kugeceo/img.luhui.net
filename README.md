@@ -1,3 +1,11 @@
+网站名称：web-realesrgan
+
+⭐  网站功能：图像变清晰
+
+📁  网站简介：一款可以将图像变清晰的工具。通过浏览器运行Real-ESRGAN和Real-CUGAN模型，实现图像的超分辨率处理。
+
+可以在任何设备上直接通过浏览器上传图片，选择相应的模型和计算方式（WebGL或WebGPU），以便对图像进行放大和增强。
+
 # web-realesrgan
 
 Run Real-ESRGAN/Real-CUGAN in the browser with tensorflow.js
